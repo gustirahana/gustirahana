@@ -16,6 +16,14 @@ I currently work on **SSBO SaaS ERP** at **PT Oka Iki Indonesia**—an enterpris
 - Designing dependable payroll and Indonesian tax-compliance workflows, including PPh21 and Coretax-ready exports.
 - Improving product quality with practical tests, clear release documentation, and responsive UX.
 
+## Selected public projects
+
+| Project | What it includes | UI framework and libraries |
+| --- | --- | --- |
+| [Token Presale Platform](https://web-porto-tokenpresale.vercel.app/) | Token-presale dashboard with account, deposit, transaction-history, and settings flows. | React, TypeScript, Vite, Redux Toolkit, React Bootstrap, Axios, Chart.js |
+| [Dragonpro Trading](https://web-porto-trading.vercel.app/) | Trading dashboard with spot and futures views, live data connections, portfolio widgets, and charts. | React, Material UI, Emotion, Redux Toolkit, Axios, Socket.IO Client, ApexCharts, Lightweight Charts |
+| [Luzenti Skincare](https://web-porto-luzenti-af75-git-main-gustirahanas-projects.vercel.app/) | Responsive skincare brand site with product browsing, carousels, and animated editorial sections. | React, Material UI, Tailwind CSS, Styled Components, Framer Motion, Embla Carousel, Swiper |
+
 ## Beyond the code
 
 I enjoy shaping interfaces with motion, clarity, and a little personality. Outside work, you will usually find me exploring games, product design, and the small details that make digital experiences feel alive.
