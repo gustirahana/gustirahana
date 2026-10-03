@@ -2,7 +2,7 @@
 
 Full-stack developer from Indonesia, building useful web products where thoughtful interfaces meet reliable backend systems.
 
-I currently work on **SSBO SaaS ERP** at **PT Oka Iki Indonesia**—an enterprise platform spanning sales, purchasing, inventory, accounting, HR, payroll, and Indonesian tax workflows.
+“I currently contribute to a SaaS ERP platform covering sales, purchasing, inventory, accounting, HR, payroll, and Indonesian tax workflows. Alongside this role, I serve as Backend Lead for Payment Hub, leading its Go backend architecture and development toward secure payment processing, approval controls, bank integrations, reconciliation, and accounting workflows.”
 
 ## What I work with
 
