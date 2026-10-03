@@ -2,18 +2,19 @@
 
 Full-stack developer from Indonesia, building useful web products where thoughtful interfaces meet reliable backend systems.
 
-“I currently contribute to a SaaS ERP platform covering sales, purchasing, inventory, accounting, HR, payroll, and Indonesian tax workflows. Alongside this role, I serve as Backend Lead for Payment Hub, leading its Go backend architecture and development toward secure payment processing, approval controls, bank integrations, reconciliation, and accounting workflows.”
+I currently contribute to a SaaS ERP platform covering sales, purchasing, inventory, accounting, HR, payroll, and Indonesian tax workflows. Alongside this role, I serve as Backend Lead for Payment Hub, leading its Go backend architecture and development toward secure payment processing, approval controls, bank integrations, reconciliation, and accounting workflows.
 
 ## What I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,php,js,ts,nodejs,mysql,docker" alt="Laravel, Vue.js, React, Next.js, PHP, JavaScript, TypeScript, Node.js, MySQL, and Docker" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,php,js,ts,nodejs,go,mysql,docker" alt="Laravel, Vue.js, React, Next.js, PHP, JavaScript, TypeScript, Node.js, Go, MySQL, and Docker" />
 </p>
 
 ## Current focus
 
 - Building end-to-end ERP features, from Laravel services and database design to Vue interfaces.
 - Designing dependable payroll and Indonesian tax-compliance workflows, including PPh21 and Coretax-ready exports.
+- Leading Go backend development for Payment Hub, with a focus on secure access control and payment workflows.
 - Improving product quality with practical tests, clear release documentation, and responsive UX.
 
 ## Selected public projects
@@ -35,7 +36,7 @@ I enjoy shaping interfaces with motion, clarity, and a little personality. Outsi
   <a href="mailto:gustirahana@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30" /></a>
   <a href="https://wa.me/6281284371415"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="30" height="30" /></a>
   <a href="https://www.instagram.com/gustirahana/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="30" height="30" /></a>
-  <a href="https://www.linkedin.com/in/gustirahana/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="30" height="30" /></a>
+  <a href="https://www.linkedin.com/in/gustirahana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 > Open to thoughtful collaborations, product conversations, and opportunities to build something useful.
